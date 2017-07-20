@@ -1,6 +1,6 @@
 module.exports = {
   rules: {
-    'comma-dangle': ['warn', {
+    'comma-dangle': ['off', {
       arrays: 'always-multiline',
       objects: 'always-multiline',
       imports: 'always-multiline',
