@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-hulkish-react-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "my opinionated eslint config",
   "author": "Steven Hargrove <steven.hargrove@gmail.com>",
