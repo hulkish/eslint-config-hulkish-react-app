@@ -18,6 +18,7 @@ module.exports = {
     'import/extensions': [
       '.js',
       '.jsx',
+      '.gql'
     ],
     'import/core-modules': [
 

@@ -12,6 +12,7 @@ module.exports = {
     './rules/react',
     './rules/react-a11y',
     './rules/flowtype',
+    './rules/graphql',
   ].map(require.resolve),
   parserOptions: {
     ecmaVersion: 8,
