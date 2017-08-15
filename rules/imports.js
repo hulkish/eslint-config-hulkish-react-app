@@ -13,7 +13,8 @@ module.exports = {
     'import/resolver': {
       node: {
         extensions: ['.js', '.jsx', '.json']
-      }
+      },
+      "babel-module": {}
     },
     'import/extensions': [
       '.js',

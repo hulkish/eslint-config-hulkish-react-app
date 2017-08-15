@@ -130,11 +130,6 @@ module.exports = {
     'react/void-dom-elements-no-children': 'error',
   },
   settings: {
-    'import/resolver': {
-      node: {
-        extensions: ['.js', '.jsx', '.json']
-      }
-    },
     react: {
       pragma: 'React',
       version: '15.0'
